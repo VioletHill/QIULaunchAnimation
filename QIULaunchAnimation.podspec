@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/VioletHill/QIULaunchAnimation"
   s.author             = { "QiuFeng" => "qfviolethill@163.com" }
   s.source       = { :git => "https://github.com/VioletHill/QIULaunchAnimation.git", :tag => "0.0.1" }
+  s.source_files = 'src/*.{h,m}'
   s.framework  = 'UIKit'
   s.requires_arc = true  
 
