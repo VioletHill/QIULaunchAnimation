@@ -12,8 +12,9 @@ Pod::Spec.new do |s|
   s.summary      = "Launch animation like Twitter"
   s.description  = <<-DESC
                    DESC
-
+                   
   s.homepage     = "https://github.com/VioletHill/QIULaunchAnimation"
+  s.license          = 'MIT'  
   s.author             = { "QiuFeng" => "qfviolethill@163.com" }
   s.source       = { :git => "https://github.com/VioletHill/QIULaunchAnimation.git", :tag => "0.0.1" }
   s.source_files = 'src/*.{h,m}'
