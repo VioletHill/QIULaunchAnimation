@@ -11,6 +11,6 @@ This is an launch animation like Twitter App
 
 In your first ViewController:
 
-    ` QIULaunchAnimationFade *fadeAnimation = [[QIULaunchAnimationFade alloc] init];
-    //fadeAnimation.animationDuration = 5;
-    [fadeAnimation startAnimation:nil]; `
+	QIULaunchAnimationFade *fadeAnimation = [[QIULaunchAnimationFade alloc] init];
+	//fadeAnimation.animationDuration = 5;
+	[fadeAnimation startAnimation:nil]; 
