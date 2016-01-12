@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/VioletHill/QIULaunchAnimation.git", :tag => "0.0.1" }
   s.source_files = 'src/*.{h,m}'
   s.framework  = 'UIKit'
+  s.platform     = :ios, '7.0'
   s.requires_arc = true  
 
 
