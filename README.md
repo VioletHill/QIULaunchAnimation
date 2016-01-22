@@ -1,6 +1,6 @@
-#QIULaunchAnimation
+a#QIULaunchAnimation
 
-![GitHub Logo](img.gif)
+![Demo](img.gif)
 
 This is an launch animation like Twitter App
 
