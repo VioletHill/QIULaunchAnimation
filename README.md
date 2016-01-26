@@ -1,8 +1,8 @@
-a#QIULaunchAnimation
+#QIULaunchAnimation
 
 ![Demo](img.gif)
 
-This is an launch animation like Twitter App
+Launch animation like Twitter App
 
 #Installation
 `pod 'QIULaunchAnimation' `
